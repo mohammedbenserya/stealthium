@@ -50,3 +50,9 @@ Thumbs.db
 # Project specific
 *.log
 google-chrome-stable_current_amd64.deb
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg

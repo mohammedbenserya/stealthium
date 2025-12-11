@@ -1,5 +1,9 @@
 # Stealthium
 
+[![PyPI version](https://badge.fury.io/py/stealthium.svg)](https://badge.fury.io/py/stealthium)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Create undetectable browser sessions for web scraping without automation flags. **Stealthium provides a drop-in replacement for Selenium's `webdriver.Chrome`** - use it exactly like Selenium, but with built-in anti-detection features.
 
 ## Features
